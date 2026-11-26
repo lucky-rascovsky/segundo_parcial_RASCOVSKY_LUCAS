@@ -1,0 +1,5 @@
+Nombre producto	Cantidad	Subtotal
+Auriculares Sony	2	70000.6
+Notebook Lenovo	1	900000.4
+Parlantes Genius	1	25000.9
+TOTAL A PAGAR: $995001.9
